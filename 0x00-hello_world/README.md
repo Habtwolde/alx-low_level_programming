@@ -2,7 +2,7 @@
 
 #Alx-low_level_programming
 ## Technologies
-* Scripts written in Bash 4.3.11(1)
+* Scripts written in Git Bash 4.3.11(1)
 * C files are compiled using `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
 * Tested on Ubuntu 20.04 LTS
 

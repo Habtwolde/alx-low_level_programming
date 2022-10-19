@@ -3,6 +3,11 @@
 
 #include <stdio.h>
 
+/**
+ * positive_or_negative(int i): prints if the number is zero or not
+ * Returns: null
+ */
+
 void positive_or_negative(int i)
 {
         if (i > 0)

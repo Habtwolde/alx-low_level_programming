@@ -1,7 +1,9 @@
 0x04. C - More functions, more nested loops
 ## Technologies
 * C files are compiled using '-Wall -Werror -Wextra -pedantic -std=gnu89'
-*
+* C files are written according to the C90 standard
+* Tested on Ubuntu 20.04 LTS
+
 All of the following files are programs written in C:
 
 | Filename | Description |

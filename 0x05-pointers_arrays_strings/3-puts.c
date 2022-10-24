@@ -1,4 +1,4 @@
-#include "main.h"
+ginclude "main.h"
 
 /**
  * _puts - prints a string
@@ -6,8 +6,9 @@
  */
 void _puts(char *str)
 {
-        while (*str)
-                _putchar(*str++);
-
-        _putchar('\n');
+	while (*str)
+	{
+		_putchar(*str++);
+	}
+	_putchar('\n');
 }

@@ -5,7 +5,7 @@
  * @str: input string.
  * Return: no return.
  */
-vod _puts(char *str)
+void _puts(char *str)
 {
 	int n;
 

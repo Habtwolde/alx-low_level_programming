@@ -1,16 +1,13 @@
-0x00. C - Hello, World, At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+#Alx Low Level Programming
 
-    Why C programming is awesome?
-    Who invented C?
-    Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds?
-    What happens when you type gcc main.c?
-    What is an entry point?
-    What is main?
-    How to print text using printf, puts and putchar?
-    How to get the size of a specific type using the unary operator sizeof?
-    How to compile using gcc?
-    What is the default program name when compiling with gcc?
-    What is the official C coding style and how to check your code with betty-style?
-    How to find the right header to include in your source code when using a standard library function?
-    How does the main function influence the return value of the program?
+All of the following folders are projects done during the studies:
 
+| Project name | Description |
+| ------------ | ----------- |
+| [`0x00-hello_world`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x00-hello_world) | It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in **C language** |
+| [`0x01-variables_if_else_while`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x01-variables_if_else_while) | It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language** |
+| [`0x02-functions_nested_loops`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x02-functions_nested_loops) | It aims to learn about header files, functions, loops and nested loops in **C language** |
+| [`0x03-debugging`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x03-debugging) | It aims to learn how to debug in **C language** |
+| [`0x04-more_functions_nested_loops`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x04-more_functions_nested_loops) | It aims to learn about nested loops in **C language** |
+| [`0x05-pointers_arrays_strings`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x05-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
+| [`0x06-pointers_arrays_strings`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x06-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |

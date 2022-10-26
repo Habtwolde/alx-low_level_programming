@@ -1,24 +1,28 @@
+#include "holberton.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - generates keygen.
- * Return: 0 Always.
+ * main - check the code for Holberton School students.
+ * 
+ * Return: Always 0.
  */
 int main(void)
 {
-	int r = 0, c = 0;
-	time_t t;
+char seed[53] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+char password[22];
+int i, n, passw, complem;
 
-	srand((unsigned int) time(&t));
-	while (c < 2772)
-	{
-		r = rand() % 128;
-		if ((c + r) > 2772)
-			break;
-		c = c + r;
-		printf("%c", r);
-	}
-	printf("%c\n", (2772 - c));
-	return (0);
+srand(time(0));
+
+for (i = 0; passw < 2772; i++)
+{
+n = rand() % 10;
+password[i] = seed[n];
+passw += password[i];
+}
+complem = 2772 - passw;
+password[i] = complem;
+printf("%s\n",  password);
+return (0);
 }

@@ -1,12 +1,6 @@
-# Hello, World
-
-#Alx-low_level_programming
-## Technologies
-* Scripts written in Git Bash 4.3.11(1)
-* C files are compiled using `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
-* Tested on Ubuntu 20.04 LTS
-
+0x00. C - Hello, World
 ## Files
+
 All of the following files are scripts and programs written in C:
 
 | Filename | Description |

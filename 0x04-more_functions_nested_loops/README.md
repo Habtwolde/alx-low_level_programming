@@ -1,4 +1,6 @@
 0x04. C - More functions, more nested loops
+
+
 ## Technologies
 * C files are compiled using '-Wall -Werror -Wextra -pedantic -std=gnu89'
 * C files are written according to the C90 standard

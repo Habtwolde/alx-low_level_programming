@@ -1,14 +1,6 @@
-# Variables, if, else and while
+0x01. C - Variables, if, else, while
 
-This Project aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in **C language**.
-
-## Technologies
-* C files are compiled using `-Wall -Werror -Wextra -pedantic -std=gnu89`
-* C files are written according to the betty standard
-* Tested on Ubuntu 20.04 LTS
-
-## Files
-All of the following files are programs written in C:
+#All of the following files are programs written in C:
 
 | Filename | Description |
 | -------- | ----------- |

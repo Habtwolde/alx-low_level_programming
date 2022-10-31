@@ -1,8 +1,4 @@
-## Technologies
-* C files are compiled using `gcc -Wall -pedantic -Werror -Wextra -std=gnu89`
-* C files are written according to the C90 standard
-* Tested on Ubuntu 20.04 LTS
-* Betty will test syntax
+0x02. C - Functions, nested loops
 
 ## Files
 All of the following files are programs written in C:

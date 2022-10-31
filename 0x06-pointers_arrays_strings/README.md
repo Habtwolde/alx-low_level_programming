@@ -1,3 +1,6 @@
+0x06. C - More pointers, arrays and strings
+
+
 ## Files
 All of the following files are programs written in C:
 

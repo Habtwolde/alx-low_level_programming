@@ -1,5 +1,7 @@
 #include "main.h"
 
+int is_prime(unsigned int n, unsigned int c);
+
 /**
   * is_prime_number - a funtion that prints if the number is prime number
   * @n: a number

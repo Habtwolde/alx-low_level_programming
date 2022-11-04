@@ -1,3 +1,4 @@
+#!/bin/bash
 #ifndef _MAIN_H_
 #define _MAINN_H_
 

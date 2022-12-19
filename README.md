@@ -1,4 +1,4 @@
-#Alx Low Level Programming
+Alx Low Level Programming
 
 All of the following folders are projects done during the studies:
 
@@ -11,4 +11,4 @@ All of the following folders are projects done during the studies:
 | [`0x04-more_functions_nested_loops`](https://github.com/Habtwolde/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops) | It aims to learn about nested loops in **C language** |
 | [`0x05-pointers_arrays_strings`](https://github.com/Habtwolde/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
 | [`0x06-pointers_arrays_strings`](https://github.com/Habtwolde/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
-| [`0x07-pointers_arrays_strings`](https://github.com/Habtwolde/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
+| [`0x07-pointers_arrays_strings`](https://github.com/Habtwolde/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings) | It aim to learn about pointers and arrays in **C language** |
